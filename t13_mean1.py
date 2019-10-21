@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 # Find the mean of n numbers
 
 n = int(input("Enter number of numbers: "))
