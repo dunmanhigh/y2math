@@ -1,4 +1,4 @@
-# The mean of 34, 23, 65, x, 91 is 52. Find x.
+# The mean of 34, 23, 65, x, 90 is 52. Find x.
 
 mean = 52
 
