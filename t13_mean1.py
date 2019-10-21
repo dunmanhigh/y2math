@@ -9,3 +9,9 @@ for number in numbers:
   total = total + number
 print(numbers)
 print(total / n)
+
+# find the mean of 5, 10 and 15
+numbers = [5, 10, 5]
+total = numbers(0*1*2)
+mean = total / 3
+print(mean)
