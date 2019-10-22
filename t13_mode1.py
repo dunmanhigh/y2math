@@ -7,3 +7,5 @@ print(statistics.mode(A))
 
 # the above only works if there is only 1 mode
 # what if there is more than 1 mode?
+
+#The code will not work/There will be more than one value for the mode
