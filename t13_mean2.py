@@ -10,3 +10,6 @@ for num in known_numbers:
   total -= num
 
 print(total)
+
+x= total - 34-23-65-91
+ print(x)
