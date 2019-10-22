@@ -16,6 +16,6 @@ for i in appeared:
     # Do something here
     '''
     Hint:
-    How do you check if something is unique?
+    How do you check if something is unique?.
     What will appeared[i] equals to?
     '''
