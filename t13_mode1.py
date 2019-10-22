@@ -7,3 +7,13 @@ print(statistics.mode(A))
 
 # the above only works if there is only 1 mode
 # what if there is more than 1 mode?
+
+# Find mode of n numbers
+
+import statistics
+
+A = [27, 5, 7, 11, 27, 28]
+print(statistics.mode(A))
+
+# the above only works if there is only 1 mode
+# what if there is more than 1 mode?
