@@ -1,0 +1,2 @@
+length = float(input( "Enter the diameter: ").)
+print(length (* length))\
