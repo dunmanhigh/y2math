@@ -11,3 +11,6 @@ for i in range(len(weekly_salaries)):
 print("Total salary paid:", total_salaries)
 
 print("Mean weekly salary:", total_salaries / sum(num_employees))
+
+
+
