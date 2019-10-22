@@ -4,9 +4,9 @@ mean = 52
 
 known_numbers = [34, 23, 65, 91]
 
-total = mean * 5
+total = mean * 5 = 260
 
 for num in known_numbers:
-  total -= num
+  variable = total - known_numbers = 47
 
-print(total)
+print(variable)
