@@ -1,10 +1,10 @@
-# The mean of 34, 23, 65, x, 91 is 52. Find x.
+# The mean of 27, 34, 23, 65, y, 91 is 54. Find y.
 
-mean = 52
+mean = 54
 
-known_numbers = [34, 23, 65, 91]
+known_numbers = [27, 34, 23, 65, 91]
 
-total = mean * 5
+total = mean * 6
 
 for num in known_numbers:
   total -= num
