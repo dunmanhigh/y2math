@@ -10,3 +10,9 @@ if len(A) % 2 == 0: # even n, take average of middle 2 values
 else: # odd n
   median = A[mid]
 print(median)
+
+#alternative method
+# Find median of n numbers
+n = [1,2,2,4]
+
+mid = n + 1 / 2
