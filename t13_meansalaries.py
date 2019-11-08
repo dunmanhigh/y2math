@@ -1,8 +1,8 @@
 # calculate mean salary
 
-weekly_salaries = [1000, 1100, 1200, 2100, 2500]
+weekly_salaries = [1000, 1100, 1200, 2100, 2500, 5000]
 
-num_employees = [20, 8, 10, 7, 5]
+num_employees = [10, 8, 10, 7, 5, 2]
 print("Total number of employees:", sum(num_employees))
 
 total_salaries = 0
