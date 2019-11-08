@@ -1,0 +1,13 @@
+# calculate mean number of students in each class
+
+total_number_of_students = [35, 47, 31, 50, 43]
+
+number_of_classes = [5]
+print("total number of students:", sum(number_of_classes))
+
+mean_students = 0
+for i in range(len(total_number_of_students)):
+  mean_students += total_number_of_students[i] * number_of_classes[i]
+print("Mean number of students in each class:", mean_students)
+
+print("Mean number of students in each class:", total_number_of_students / sum(number_of_classes))
