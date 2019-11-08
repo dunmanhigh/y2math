@@ -1,0 +1,6 @@
+length = float(input(15))
+length = breadth
+height = length*2
+
+
+print(height*(length**2)
