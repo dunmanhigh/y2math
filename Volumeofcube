@@ -1,0 +1,4 @@
+# Find the volume n of a cube
+SideLength = float(input("enter your SideLength:"))
+Volumeofcube = SideLengthxSideLengthxSideLength
+print(Volumeofcube)
