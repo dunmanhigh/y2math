@@ -10,3 +10,15 @@ for num in known_numbers:
   total -= num
 
 print(total)
+
+# alternative method
+
+mean = 52
+
+known_numbers = [34, 23, 65, 91]
+
+total = mean * 5
+
+x = total - known_numbers
+
+print(x)
