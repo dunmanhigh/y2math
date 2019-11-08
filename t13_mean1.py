@@ -8,4 +8,5 @@ for i in range(n):
 for number in numbers:
   total = total + number
 print(numbers)
-print(total / n)
+answer = total/n
+print(answer)
