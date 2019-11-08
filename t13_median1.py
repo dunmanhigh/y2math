@@ -10,3 +10,5 @@ if len(A) % 2 == 0: # even n, take average of middle 2 values
 else: # odd n
   median = A[mid]
 print(median)
+
+#The median is 5.
