@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 # Find elements common to a and b
 a = [1, 3, 9, 2, 5, 18, 3, 9, 2]
 b = [0, 2, 9, 2]
