@@ -1,0 +1,5 @@
+length = float(input(10))
+slant height = float(input(5))
+surface area of triangular sides = (4*(1/2*length*slant height))
+surface area of base = (length**2)
+total surface area = (surface area of triangular sides + surface area of base)
