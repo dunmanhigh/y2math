@@ -2,7 +2,7 @@
 
 import statistics
 
-A = [19, 18, 46, 18, 18, 19]
+A = [41, 4, 32, 2, 27, 9]
 print(statistics.mode(A))
 
 # the above only works if there is only 1 mode
