@@ -10,3 +10,8 @@ for num in known_numbers:
   total -= num
 
 print(total)
+
+#alternative method
+
+x = total - known_numbers
+print(x)
