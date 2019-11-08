@@ -1,0 +1,4 @@
+length= float(input("Enter the length: ").)
+breadth= (perimeter-length)/2
+
+print(breadth*(perimeter))
