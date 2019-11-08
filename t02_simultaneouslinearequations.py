@@ -1,3 +1,3 @@
 # Find x and y with these two equations:
-# 3x + 4y = 24
-# 4x + 3y = 22
+# 5x + 2y = 17
+# 5x + 6y = 52
