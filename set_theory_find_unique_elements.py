@@ -5,17 +5,11 @@ arr = [1, 3, 9, 0, 2, 5, 18, 3, 9, 2]
 appeared = {}
 
 for i in range (len(arr)):
-    # Do something here
-    '''
-    Hint:
-    Use a dictionary to store the counts of the elements
-    Example: appeared[9] = 2
-    '''
+    if arr[i] in appeared:
+        appeared[arr[i]] += 1
+    else:
+        appeared[arr[i]] = 1
 
 for i in appeared:
-    # Do something here
-    '''
-    Hint:
-    How do you check if something is unique?
-    What will appeared[i] equals to?
-    '''
+    if appeared[i] == 1:
+        print(i, end=" ")
