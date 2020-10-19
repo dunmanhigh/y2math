@@ -10,3 +10,10 @@ for num in known_numbers:
   total -= num
 
 print(total)
+
+mean = 52
+known = [34, 23, 65, 91]
+sumOfNumbers = mean * 5
+for number in known:
+  sumOfNumbers -= number
+print(str(sumOfNumbers) + " is the value of x")
