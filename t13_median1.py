@@ -10,3 +10,4 @@ if len(A) % 2 == 0: # even n, take average of middle 2 values
 else: # odd n
   median = A[mid]
 print(median)
+median of 1,3,5=3
