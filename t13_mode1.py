@@ -7,3 +7,4 @@ print(statistics.mode(A))
 
 # the above only works if there is only 1 mode
 # what if there is more than 1 mode?
+take the 2 numbers in the middle and divide by 2
