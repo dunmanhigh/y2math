@@ -1,6 +1,6 @@
-# The mean of 34, 23, 65, x, 91 is 52. Find x.
+# The mean of 34, 23, 65, x, 91 is 58. Find x.
 
-mean = 52
+mean = 58
 
 known_numbers = [34, 23, 65, 91]
 
