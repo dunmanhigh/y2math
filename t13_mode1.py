@@ -7,3 +7,5 @@ print(statistics.mode(A))
 
 # the above only works if there is only 1 mode
 # what if there is more than 1 mode?
+
+Use either median or mean, if there is more than one mode.
