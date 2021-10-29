@@ -8,4 +8,4 @@ for i in range(n):
 for number in numbers:
   total = total + number
 print(numbers)
-print(total / n)
+print(round(total / n, 3))  # good to round off to prevent showing unnecessarily large amt of sig figures
