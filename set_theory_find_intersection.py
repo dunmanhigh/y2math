@@ -34,3 +34,13 @@ Hence, why not we just search from 1 to 9?
 '''
 
 # YOUR TURN: Modify the FOR loop above
+a = [1, 3, 9, 2, 5, 18, 3, 9, 2]
+b = [0, 2, 9, 2]
+intersection=[]
+for i in range (len(a)):
+    for j in range (len(b)):
+        if a[i] == b[j]:
+            intersection.append(a[i])
+intersection=set(intersection)
+print(intersection)
+            
